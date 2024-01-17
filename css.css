@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;}
+
+
+.person{
+    position: absolute;
+    margin-right:300px;
+    margin-top: -20PX;
+}
+
+.pro{
+    position: absolute;
+    padding-left: 100px;
+    padding-right: 150px;
+    padding-top: 30px;
+    padding-bottom: 567px;
+    display: inline-block;
+
+    background-color: black;
+    color: white;
+}
+
+.pro h2{
+    margin-right: -50px;
+}
+
+nav{
+    margin-top: 30px;
+  margin-right: 500px;
+    position: absolute;
+}
+
+nav li{
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    margin-right: 66px;
+}
+
+.home{
+    line-height: 40px;
+    border-bottom: 3px solid #4D867A;
+}
+
+.nyname{
+    font-size: 40px;
+    color: white;
+    margin-right: 150px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+
+.nyname2{
+font-weight: bold;
+    font-size: 60px;
+    color: white;
+    margin-right: 230px;
+    margin-top: 450px;
+    position: absolute;
+}
+
+
+.nywork{
+   
+        font-size: 23px;
+        color: white;
+        position: absolute;
+        margin-top: 520px;
+        margin-right: 220px;
+        background-color: #4D867A;
+        padding: 10px;
+    }
+
+
+    .pic{
+        margin-top: 180px;
+        margin-right: 280px;
+        width: 300px;
+        height: 300px;
+        position: absolute;
+
+    }
+
+    .pic2{
+        position: absolute;
+        margin-top: 240px;
+        margin-right: 250px;
+        width: 300px;
+        height: 300px;
+    }
+
+    .sahm{
+        position: absolute;
+    width: 200px;
+margin-right: 440px;    
+margin-top: 136px;
+}
+
